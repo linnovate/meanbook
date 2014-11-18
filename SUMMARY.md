@@ -1,3 +1,3 @@
 # Summary
-* [Documentation](https://github.com/linnovate/mean/blob/master/README.md)
+* [Documentation](docs/intro.md)
 * [Google](http://foobar.com)
