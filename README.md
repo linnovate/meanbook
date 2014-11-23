@@ -5,4 +5,4 @@ meanbook
 
 built from https://github.com/linnovate/meanbook
 yup
-yup
+
